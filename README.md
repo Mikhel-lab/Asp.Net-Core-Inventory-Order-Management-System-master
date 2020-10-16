@@ -60,15 +60,10 @@ Project example Asp.Net Core Mvc implementation of inventory order management sy
   - Change Role
 
 
-# Development Tools & Environment
-
-- **Visual Studio 2017 (Community Edition)**. (https://visualstudio.microsoft.com/) 
-- **Syncfusion JQuery Controls EJ1 (Community Edition)**. (https://www.syncfusion.com/products/communitylicense)
 
 
 
-# Supported by CodeRush.Co
-[CodeRush.CO] source code collections (https://coderush.co). 50% Off All Products, Use Discount Code **GITHUB50**
+
 
 
 
